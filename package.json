@@ -10,7 +10,7 @@
     "build": "webpack --mode production",
     "start:dev": "concurrently \"webpack serve --mode development\" \"nodemon server.js\""
   },
-  "engines" : {
+  "engines": {
     "node": "11.x"
   },
   "author": "nikitos",
